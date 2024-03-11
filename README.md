@@ -20,7 +20,7 @@ This Python script is designed to extract individual frames from GIF files and s
 1. **Place your GIF files in a folder named "gifs" within the same directory as the script.**
 2. **Run the script from the command line:**
     ```bash
-    python extract_frames.py
+    python main.py
     ```
 
 **Explanation**
